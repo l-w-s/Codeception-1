@@ -19,7 +19,7 @@
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
-        "facebook/webdriver": "^1.6.0",
+        "php-webdriver/php-webdriver": "^1.6.0",
         "guzzlehttp/guzzle": "^6.3.0",
         "guzzlehttp/psr7": "~1.4",
         "hoa/console": "~3.0",
